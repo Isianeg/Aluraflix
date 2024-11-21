@@ -3,6 +3,7 @@ body{
     background: black;
     margin: 0px;
     font-family: "Chakra Petch", sans-serif;
+    margin-bottom: 100px;
 }
 
 header{
@@ -41,6 +42,7 @@ p{
 .categorias{
     padding-left:20px;
     padding-right: 20px;
+    margin: 50px;
 }
 
 .categorias-videos img{
@@ -54,5 +56,5 @@ p{
 }
 
 .categoria h2{
-    color:color: rgb(42, 122, 228);
+    color:color:rgb(42, 122, 228);
 }
